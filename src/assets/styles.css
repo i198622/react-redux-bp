@@ -1,0 +1,23 @@
+
+.menu a {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.photos-list {
+  margin: 0;
+  padding: 0;
+}
+
+.photos-list li {
+  display: inline-block;
+  list-style-type: none;
+  width: 150px;
+  height: 150px;
+}
+
+.loading {
+  font-size: 20px;
+  text-align: center;
+  margin: 300px 0;
+}
